@@ -2,6 +2,8 @@
 
 # An Analysis of Sovereign Credit Risk
 
+![alt text](https://github.com/anaulianova/Capstone_Project/blob/master/images/image.jpg)
+
 ## Project Overview
 Sovereign risk ratings are used by investors to gain insight and assess the level of risk associated with the purchase of sovereign debt. Countries with a higher rating accordingly have low risk, and thus the purchase of sovereign bonds issues by such countries are marked as a low-yield, low-risk investment. 
 
