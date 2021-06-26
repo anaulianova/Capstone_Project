@@ -78,8 +78,9 @@ Test Accuracy of 18.42%
 
 ### RBF: 
 Test Accuracy of 23.68%
-#Linear: 
-inconclusive due to excessive running time (over 6 hours with no result)
+### Linear: 
+inconclusive due to excessive running time (over 13 hours with no result)
+
 # Recommendations
 Though the model still lacks data to make a conclusive prediction across the board, when tackling higher risk markets, investors should focus on the following:
 - Looking at the strong relationship between Credit Rating and such variables as Income Group and Ease of Doing Business Index, investors should monitor the business environment in emerging markets, specifically focusing on the presence of a growing number of entrepreneurship and small & medium businesses. Such factors could provide early indicators of an improving economy.
