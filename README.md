@@ -29,18 +29,45 @@ Thus, I have attempted to examine the relationships between a wide variety of  n
 
 ## Findings
 
+![alt text](https://github.com/anaulianova/Capstone_Project/blob/master/images/cr_distribution.PNG)
 
 The Exploratory Data Analysis revealed a strong relationship between Credit Rating and the several variables, which highlights features that are of interest to the objective of this analysis. 
+
 ### 1. Credit Rating & Income Group
 
+![alt text](https://github.com/anaulianova/Capstone_Project/blob/master/images/cr_income.PNG)
 
 Unsurprisingly, the wealth of a state is very strongly affected by where that state will rank amongst the credit rating categories, with wealthier nations concentrating on the top half of the Credit Rating categories, and lower income countries concentration on the bottom half. 
 
 ### 2. Credit Rating and Region
 
+![alt text](https://github.com/anaulianova/Capstone_Project/blob/master/images/cr_region.PNG)
+
 The distribution of Credit Rating classes by region is relatively normally distributed (with some skewness in one direction or another depending on the region). By this spread, European and Asian countries appear to generally have a higher rating than other regions. 
 In terms of opportunity, Latin American presents an interesting case with its countries primarily concentrating around the center of the credit rating spectrum, yet still with many counting in the upper half, showing a positive skew towards a better credit score. 
 
+### 3. Credit Rating and Corruption Perception Index Rank
+
+![alt text](https://github.com/anaulianova/Capstone_Project/blob/master/images/cr_cpi.PNG)
+
+Corruption is one of the factors that has appeared to be strongly correlated with Credit Rating, with a positive relationship whereby the credit rating improves as the country's rank improves. 
+
+### 4. Credit Rating and Ease of Doing Business Index
+
+![alt text](https://github.com/anaulianova/Capstone_Project/blob/master/images/ease_business.PNG)
+
+On the Ease of Doing Business, it clearly appears as though the more difficult it is to conduct busienss in that country, the lower the rating. This is an especially interesting variable when considering emerging markets' need/interest in attracting foreign investors to raise capital to fund their development & economy. 
+However, unlike the previous boxplot that showcased the relationship with the Corruption Perception Index Rank, there does appear to be a point in countries rated AAA Prime, where conducting business becomes challenging. 
+It is probable that is due to overly strict regulations which may hamper entrepreneurship, as opposed to lackthereof in lower rated countries. 
+
+### Unemployment
+
+![alt text](https://github.com/anaulianova/Capstone_Project/blob/master/images/unemployment.PNG)
+
+Though less strong of a relationship, there does nonetheless seem to be a slight upward trend to the average unemployment rate per rating as it worsens. 
+
+
+# Conclusions 
 
 Nonetheless, the complexity & shortness of the dataset has to an inconclusive result, despite exploring the use of various kernels including Polynomial, Sygmoid, RBF and linear. 
 
@@ -48,7 +75,6 @@ The findings are as follows:
 
 ### Polynomial: 
 Test Accuracy of 18.42%
-### Sygmoid: 
 
 ### RBF: 
 Test Accuracy of 23.68%
