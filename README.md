@@ -79,7 +79,7 @@ Test Accuracy of 18.42%
 ### RBF: 
 Test Accuracy of 23.68%
 ### Linear: 
-inconclusive due to excessive running time (over 13 hours with no result)
+inconclusive due to excessive running time (over 24 hours with no result)
 
 # Recommendations
 Though the model still lacks data to make a conclusive prediction across the board, when tackling higher risk markets, investors should focus on the following:
