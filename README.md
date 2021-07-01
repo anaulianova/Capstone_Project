@@ -69,7 +69,7 @@ Though less strong of a relationship, there does nonetheless seem to be a slight
 
 # Conclusions 
 
-Nonetheless, the complexity & shortness of the dataset has to an inconclusive result, despite exploring the use of various kernels including Polynomial, Sygmoid, RBF and linear. 
+Nonetheless, the shortness of the dataset has lead to an inconclusive result, despite exploring the use of various kernels including Polynomial, Sygmoid, RBF and linear. 
 
 The findings are as follows: 
 
